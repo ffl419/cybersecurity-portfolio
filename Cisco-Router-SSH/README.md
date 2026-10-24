@@ -60,3 +60,9 @@ Screenshots of the network topology, router configuration, ping test, and succes
 The topology shows the client device connected to the Cisco router through a network switch.
 
 ![Network Topology](IMG_4011.jpeg)
+
+### Connectivity and SSH Verification
+
+The successful ping verifies network connectivity between the client and router. The SSH session demonstrates successful secure remote access to the Cisco router.
+
+![PING and SSH Verification](IMG_4012.jpeg)
