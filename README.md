@@ -6,7 +6,8 @@ My hands-on cybersecurity, networking, Cisco, and Linux projects.
 
 My name is Orlando Garcia Jr.
 
-I am a cybersecurity student from Northwest Vista College, building hands-on experience in networking, Cisco technologies, Linux, and information security.
+I am a cybersecurity student from Northwest Vista College in San Antonio, Texas. 
+I am building hands-on experience in networking, Cisco technologies, Linux, and information security.
 
 ## Projects
 
