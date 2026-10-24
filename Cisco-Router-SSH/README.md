@@ -54,3 +54,9 @@ This project helped me understand how SSH provides secure remote access to netwo
 ## Project Evidence
 
 Screenshots of the network topology, router configuration, ping test, and successful SSH connection will be added below.
+
+### Network Topology
+
+The topology shows the client device connected to the Cisco router through a network switch.
+
+IMG_4011.jpeg
