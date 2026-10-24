@@ -59,4 +59,4 @@ Screenshots of the network topology, router configuration, ping test, and succes
 
 The topology shows the client device connected to the Cisco router through a network switch.
 
-IMG_4011.jpeg
+![Network Topology](IMG_4011.jpeg)
