@@ -8,7 +8,7 @@ I am a cybersecurity student building hands-on experience in networking, Cisco t
 
 ## Projects
 
-### (Cisco-Router-SSH/README.md)
+### [Cisco Router SSH Configuration](Cisco-Router-SSH/README.md)
 
 
 Configured a Cisco router for secure remote access using SSH through a network switch.
