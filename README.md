@@ -26,7 +26,7 @@ Configured a Cisco router for secure remote access using SSH through a network s
 - Network Connectivity
 - Network Troubleshooting
 
-### ./Linux-User-Permissions-Lab/README.md
+### [Linux User and File Permission Security Lab](Linux-User-Permissions-Lab/README.md)
 
 Completed a hands-on Linux security lab focused on user and group administration, file ownership, permissions, and access control.
 
