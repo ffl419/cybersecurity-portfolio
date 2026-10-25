@@ -38,7 +38,7 @@ id cyberuser
 
 ### Evidence
 
-![Linux User Creation](YOUR-IMAGE-1.jpeg)
+![Linux User Creation](Screenshot1.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ groups cyberuser
 
 ### Evidence
 
-![Linux Security Group](YOUR-IMAGE-2.jpeg)
+![Linux Security Group](Screenshot2.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ ls -l security-report.txt
 
 ### Evidence
 
-![Original File Permissions](YOUR-IMAGE-3.jpeg)
+![Original File Permissions](Screenshot3.jpg)
 
 ---
 
@@ -93,7 +93,7 @@ The `640` permission setting provides:
 
 ### Evidence
 
-![CHMOD Permission Configuration](YOUR-IMAGE-4.jpeg)
+![CHMOD Permission Configuration](Screenshot4.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ This associates the file with the `securityteam` group while maintaining the con
 
 ### Evidence
 
-![File Ownership Configuration](YOUR-IMAGE-5.jpeg)
+![File Ownership Configuration](Screenshot5.jpg)
 
 ---
 
@@ -132,7 +132,7 @@ File: security-report.txt
 
 ### Evidence
 
-![Permission Verification](YOUR-IMAGE-6.jpeg)
+![Permission Verification](Screenshot6.jpg)
 
 ---
 
@@ -152,7 +152,7 @@ The script executed successfully after the execute permission was applied.
 
 ### Evidence
 
-![Bash Execute Permission Test](YOUR-IMAGE-7.jpeg)
+![Bash Execute Permission Test](Screenshot7.jpg)
 
 ---
 
