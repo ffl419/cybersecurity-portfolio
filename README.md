@@ -25,3 +25,18 @@ Configured a Cisco router for secure remote access using SSH through a network s
 - VTY Configuration
 - Network Connectivity
 - Network Troubleshooting
+
+### ./Linux-User-Permissions-Lab/README.md
+
+Completed a hands-on Linux security lab focused on user and group administration, file ownership, permissions, and access control.
+
+#### Skills Demonstrated
+
+- Linux Administration
+- User and Group Management
+- File Permissions
+- chmod
+- chown
+- Bash
+- Access Control
+- Command-Line Troubleshooting
