@@ -83,7 +83,7 @@ http://localhost:3000
 
 ### OWASP Juice Shop Running
 
-![OWASP Juice Shop running locally](screenshots/Screenshot1.jpg)
+![OWASP Juice Shop running locally](Screenshot1.jpg)
 
 This confirmed that my intentionally vulnerable training application was running locally.
 
@@ -119,7 +119,7 @@ Port 3000 was important because OWASP Juice Shop was running on that port.
 
 ### Basic Nmap Scan
 
-![Basic Nmap scan](screenshots/Screenshot2.jpg)
+![Basic Nmap scan](Screenshot2.jpg)
 
 ### What I Learned
 
@@ -148,11 +148,11 @@ The service-detection output also returned HTTP information associated with the 
 
 ### Service Detection - Part 1
 
-![Nmap service detection part 1](screenshots/Screenshot3A.jpg)
+![Nmap service detection part 1](Screenshot3A.png)
 
 ### Service Detection - Part 2
 
-![Nmap service detection part 2](screenshots/Screenshot3B.jpg)
+![Nmap service detection part 2](Screenshot3B.png)
 
 ### What I Learned
 
@@ -196,7 +196,7 @@ OWASP Juice Shop confirmed that I successfully discovered the hidden Score Board
 
 ### Challenge Completed
 
-![Score Board challenge completed](screenshots/Screenshot4.jpg)
+![Score Board challenge completed](Screenshot4.png)
 
 ### What I Learned
 
@@ -216,7 +216,7 @@ OWASP Juice Shop confirmed that I successfully completed the challenge.
 
 ### Challenge Completed
 
-![DOM XSS challenge completed](screenshots/Screenshot5.jpg)
+![DOM XSS challenge completed](Screenshot5.png)
 
 ### What I Learned
 
@@ -238,7 +238,7 @@ OWASP Juice Shop confirmed that I successfully completed the challenge.
 
 ### Challenge Completed
 
-![Bonus Payload challenge completed](screenshots/Screenshot6.jpg)
+![Bonus Payload challenge completed](Screenshot6.png)
 
 ### What I Learned
 
