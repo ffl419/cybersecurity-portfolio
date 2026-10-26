@@ -40,3 +40,27 @@ Completed a hands-on Linux security lab focused on user and group administration
 - Bash
 - Access Control
 - Command-Line Troubleshooting
+
+### 🔐 [Ubuntu Penetration Testing Lab](./Ubuntu-Penetration-Testing-Lab/)
+
+Built a beginner penetration testing lab using Ubuntu, Docker, Nmap, Firefox Developer Tools, and OWASP Juice Shop.
+
+**Skills demonstrated:**
+- Configured a local Docker-based penetration testing environment
+- Deployed OWASP Juice Shop as an intentionally vulnerable training application
+- Used Nmap for basic network reconnaissance
+- Identified open TCP ports
+- Performed focused service detection on port 3000
+- Used Firefox Developer Tools to inspect client-side JavaScript
+- Discovered a hidden application route
+- Completed the OWASP Juice Shop Score Board challenge
+- Completed the DOM XSS challenge
+- Completed the Bonus Payload challenge
+- Documented testing results with screenshots
+- Practiced ethical security testing in a controlled local environment
+
+**Tools:** Ubuntu | Docker | Nmap | OWASP Juice Shop | Firefox Developer Tools
+
+**Topics:** Network Reconnaissance | Service Detection | Web Application Security | DOM XSS | Client-Side Analysis
+
+📖 **[View Full Project Documentation](./Ubuntu-Penetration-Testing-Lab/README.md)**
