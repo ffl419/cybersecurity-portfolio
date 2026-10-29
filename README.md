@@ -2,17 +2,20 @@
 
 My hands-on cybersecurity, networking, Cisco, and Linux projects.
 
+<br>
+
 ## About Me
 
 My name is Orlando Garcia Jr.
 
-I am a cybersecurity student from Northwest Vista College in San Antonio, Texas. 
+I am a cybersecurity student from Northwest Vista College in San Antonio, Texas.  
 I am building hands-on experience in networking, Cisco technologies, Linux, and information security.
+
+<br>
 
 ## Projects
 
 ### [Cisco Router SSH Configuration](Cisco-Router-SSH/README.md)
-
 
 Configured a Cisco router for secure remote access using SSH through a network switch.
 
@@ -25,6 +28,32 @@ Configured a Cisco router for secure remote access using SSH through a network s
 - VTY Configuration
 - Network Connectivity
 - Network Troubleshooting
+
+<br>
+
+### [Cisco Inter-VLAN Routing and Remote Access Lab](Cisco%20Inter-VLAN/README.md)
+
+Configured and tested a Cisco Packet Tracer network using multiple IPv4 networks and remote router administration.
+
+The project demonstrates network connectivity testing using `ping`, successful remote access to a Cisco router using Telnet, Cisco IOS navigation, and basic network troubleshooting.
+
+#### Skills Demonstrated
+
+- Cisco Packet Tracer
+- Cisco IOS
+- Inter-VLAN Routing
+- IPv4 Addressing
+- Default Gateway Configuration
+- Network Connectivity Testing
+- Ping
+- Telnet
+- Remote Router Administration
+- Network Troubleshooting
+- Basic Network Security
+
+📖 **[View Full Project Documentation](https://github.com/ffl419/cybersecurity-portfolio/blob/main/Cisco%20Inter-VLAN/README.md)**
+
+<br>
 
 ### [Linux User and File Permission Security Lab](Linux-User-Permissions-Lab/README.md)
 
@@ -41,11 +70,14 @@ Completed a hands-on Linux security lab focused on user and group administration
 - Access Control
 - Command-Line Troubleshooting
 
+<br>
+
 ### 🔐 [Ubuntu Penetration Testing Lab](./Ubuntu-Penetration-Testing-Lab/)
 
 Built a beginner penetration testing lab using Ubuntu, Docker, Nmap, Firefox Developer Tools, and OWASP Juice Shop.
 
-**Skills demonstrated:**
+**Skills Demonstrated:**
+
 - Configured a local Docker-based penetration testing environment
 - Deployed OWASP Juice Shop as an intentionally vulnerable training application
 - Used Nmap for basic network reconnaissance
